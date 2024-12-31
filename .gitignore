@@ -1,3 +1,7 @@
+# LunarSimulator and Leaderboard directorites
+LunarSimulator/*
+Leaderboard/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
